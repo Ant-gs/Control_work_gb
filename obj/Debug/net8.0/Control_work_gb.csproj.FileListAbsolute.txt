@@ -1,0 +1,5 @@
+C:\Users\kolya\OneDrive\Рабочий стол\Control_work_gb\obj\Debug\net8.0\Control_work_gb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\OneDrive\Рабочий стол\Control_work_gb\obj\Debug\net8.0\Control_work_gb.AssemblyInfoInputs.cache
+C:\Users\kolya\OneDrive\Рабочий стол\Control_work_gb\obj\Debug\net8.0\Control_work_gb.AssemblyInfo.cs
+C:\Users\kolya\OneDrive\Рабочий стол\Control_work_gb\obj\Debug\net8.0\Control_work_gb.csproj.CoreCompileInputs.cache
+C:\Users\kolya\OneDrive\Рабочий стол\Control_work_gb\obj\Debug\net8.0\Control_work_gb.sourcelink.json
