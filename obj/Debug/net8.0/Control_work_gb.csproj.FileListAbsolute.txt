@@ -3,3 +3,13 @@ C:\Users\kolya\OneDrive\Рабочий стол\Control_work_gb\obj\Debug\net8.0
 C:\Users\kolya\OneDrive\Рабочий стол\Control_work_gb\obj\Debug\net8.0\Control_work_gb.AssemblyInfo.cs
 C:\Users\kolya\OneDrive\Рабочий стол\Control_work_gb\obj\Debug\net8.0\Control_work_gb.csproj.CoreCompileInputs.cache
 C:\Users\kolya\OneDrive\Рабочий стол\Control_work_gb\obj\Debug\net8.0\Control_work_gb.sourcelink.json
+C:\Users\kolya\OneDrive\Рабочий стол\Control_work_gb\bin\Debug\net8.0\Control_work_gb.exe
+C:\Users\kolya\OneDrive\Рабочий стол\Control_work_gb\bin\Debug\net8.0\Control_work_gb.deps.json
+C:\Users\kolya\OneDrive\Рабочий стол\Control_work_gb\bin\Debug\net8.0\Control_work_gb.runtimeconfig.json
+C:\Users\kolya\OneDrive\Рабочий стол\Control_work_gb\bin\Debug\net8.0\Control_work_gb.dll
+C:\Users\kolya\OneDrive\Рабочий стол\Control_work_gb\bin\Debug\net8.0\Control_work_gb.pdb
+C:\Users\kolya\OneDrive\Рабочий стол\Control_work_gb\obj\Debug\net8.0\Control_work_gb.dll
+C:\Users\kolya\OneDrive\Рабочий стол\Control_work_gb\obj\Debug\net8.0\refint\Control_work_gb.dll
+C:\Users\kolya\OneDrive\Рабочий стол\Control_work_gb\obj\Debug\net8.0\Control_work_gb.pdb
+C:\Users\kolya\OneDrive\Рабочий стол\Control_work_gb\obj\Debug\net8.0\Control_work_gb.genruntimeconfig.cache
+C:\Users\kolya\OneDrive\Рабочий стол\Control_work_gb\obj\Debug\net8.0\ref\Control_work_gb.dll
