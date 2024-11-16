@@ -1,4 +1,5 @@
-﻿Console.Write("Enter your array of strings separated by a space: ");
+﻿Console.WriteLine();
+Console.Write("Enter your array of strings separated by a space: ");
 string? inputstr = Console.ReadLine();
 string [] arrays = inputstr.Split(' ');
 int j = 0, counter = 0;
@@ -18,7 +19,8 @@ for (int i = 0; i < arrays.Length; i++)
     j++;
     }
 }
-Console.WriteLine("A new array whose elements contain no more than 3 characters: ");
+Console.WriteLine();
+Console.Write("A new array whose elements contain no more than 3 characters: ");
 for (int e = 0; e < str.Length; e++)
 {
     Console.Write($"[{str[e]}] ");
